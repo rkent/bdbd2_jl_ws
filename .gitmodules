@@ -4,3 +4,10 @@
 [submodule "src/ros_deep_learning"]
 	path = src/ros_deep_learning
 	url = https://github.com/dusty-nv/ros_deep_learning
+[submodule "src/audio_common"]
+	path = src/audio_common
+	url = https://github.com/ros-drivers/audio_common.git
+	branch = ros2
+[submodule "src/bdbd2"]
+	path = src/bdbd2
+	url = git@github.com:rkent/bdbd2.git
